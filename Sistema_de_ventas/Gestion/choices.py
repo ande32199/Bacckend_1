@@ -3,3 +3,4 @@ CARGO={
     '2':'Vendedor',
     '3':'Cajero',
 }
+
